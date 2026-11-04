@@ -1,4 +1,4 @@
-# Hi, I'm Imadaldin Berika 👋
+# Hi, I'm Imadaldin Berika 
 
 **Machine Learning & AI researcher** · Research Fellow in Medical Robotics & AI at the **University of Naples Federico II** · MSc in Data Science
 
