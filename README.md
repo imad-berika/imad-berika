@@ -8,10 +8,9 @@ I build interpretable machine-learning and deep-learning models for healthcare, 
 
 ## 📄 Selected publications
 
-1. *Explainable Locomotion Mode Analysis Through Latent Budget Trees for Assistive Robotics* 
-2. *Multimodal Deep Learning for Context-Aware Engagement Estimation in Online Learning* 
-3. *Context-Aware Student Engagement Detection with Multimodal Large Language Models* 
-4. *Detecting and Anticipating Robot Failures from Human Behavioural Signals* 
+1. *Multimodal Deep Learning for Context-Aware Engagement Estimation in Online Learning* 
+2. *Context-Aware Student Engagement Detection with Multimodal Large Language Models* 
+3. *Detecting and Anticipating Robot Failures from Human Behavioural Signals* 
 
 ## 🧰 Tech stack
 
