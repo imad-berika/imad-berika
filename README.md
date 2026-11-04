@@ -6,12 +6,6 @@ I build interpretable machine-learning and deep-learning models for healthcare, 
 
 📍 Naples, Italy
 
-## 🔬 What I work on
-
-- **Explainable & interpretable ML** for clinical decision support (Bayesian Networks, tree-based models)
-- **IMU-based locomotion recognition** for lower-limb prostheses (LSTM, GRU, RNN, Transformers)
-- **Multimodal learning** for engagement estimation and robot-failure detection from human behavioural signals
-- **End-to-end pipelines** in PyTorch: preprocessing, feature engineering, evaluation, reporting
 
 ## 📄 Selected publications
 
