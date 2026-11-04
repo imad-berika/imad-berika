@@ -4,7 +4,6 @@
 
 I build interpretable machine-learning and deep-learning models for healthcare, assistive robotics and sensor data. My work sits where time-series modelling, explainable AI and real-world robotics meet.
 
-📍 Naples, Italy
 
 
 ## 📄 Selected publications
